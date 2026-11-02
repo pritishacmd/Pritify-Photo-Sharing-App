@@ -4,7 +4,7 @@
 
 ## Live Application
 
-[Open Pritify](https://pritify-photo-flow.base44.appq/)
+[Open Pritify](https://pritify-photo-flow.base44.app/)
 
 ## Key Features
 
